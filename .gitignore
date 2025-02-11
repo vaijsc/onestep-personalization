@@ -1,0 +1,8 @@
+all_backup_SP
+data
+debug_vis
+env
+**/__pycache__/
+tmp_results
+vis_results
+sbatch/out_debug
